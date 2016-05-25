@@ -1,0 +1,3 @@
+User-Agent: *
+Disallow: /mainimg/guitarwall.jpg
+Disallow: /mainimg/guitars-wall.jpg
